@@ -9,8 +9,8 @@ local keymap = vim.api.nvim_set_keymap
 keymap("", "<Space>", "<Nop>", opts)
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
-vim.g.user42 = 'yeogo'
-vim.g.mail42 = 'yeogo@student.42seoul.kr'
+vim.g.user42 = 'yeongo'
+vim.g.mail42 = 'yeongo@student.42seoul.kr'
 
 -- Modes
 --   normal_mode = "n",
